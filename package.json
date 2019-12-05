@@ -1,0 +1,21 @@
+{
+  "name": "test_algorithm_88",
+  "version": "0.1.0",
+  "author": "rmiller_algorithmia <user+rmiller_algorithmia@algorithmia.com>",
+  "description": "Algorithmia Algorithm - rmiller_algorithmia/test_algorithm_88",
+  "main": "test_algorithm_88.js",
+  "bin": {
+    "test_algorithm_88": "./test_algorithm_88.js"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "algorithmia": "0.3.x"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
+
